@@ -1,6 +1,6 @@
 # starter-contributions
 
-### Schritt 1: Neues Repository erstellen
+### Neues Repository erstellen
 
 1. Melde dich bei GitHub an und klicke auf das Plus-Symbol (+) in der oberen rechten Ecke der Seite.
 2. Wähle "New repository" aus.
@@ -9,7 +9,7 @@
 5. Setze ein Häkchen bei "Initialize this repository with a README".
 6. Klicke auf "Create repository".
 
-### Schritt 2: Repository klonen
+### Repository klonen
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Repository klonen" />
 
@@ -33,7 +33,7 @@ git clone https://github.com/dein-Name/first-contributions.git
 
 An der Stelle 'dein-Name' muss dein GitHub-Nutzername stehen. Mit diesem Befehl kopierst du den Inhalt deines first-contributions-Repository von GitHub auf deinen Computer.
 
-### Schritt 3: Dateien erstellen und bearbeiten
+### Dateien erstellen und bearbeiten
 
 Navigiere in das Verzeichnis des geklonten Repositories:
 
@@ -71,7 +71,7 @@ Hier sind einige meiner bisherigen Arbeiten:
 Schauen Sie sich gerne meine Repositories an, um mehr über meine Arbeit zu erfahren.
 ```
 
-### Schritt 4: Änderungen committen und pushen
+### Änderungen committen und pushen
 
 Füge die Dateien zum Git-Index hinzu, committe die Änderungen und pushe sie zum Remote-Repository:
 
@@ -81,7 +81,7 @@ git commit -m "Added CV and updated README with links"
 git push origin main
 ```
 
-### Schritt 5: Betrachte dein Repository auf GitHub
+### Betrachte dein Repository auf GitHub
 
 Navigiere zu deinem Repository auf GitHub (z.B. `https://github.com/DEIN-NUTZERNAME/about-me`). Du solltest nun deine `README.md` Datei sehen, die auf die `LEBENSLAUF.md` verweist und Links zu deinen Projekten enthält.
 
